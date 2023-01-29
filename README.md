@@ -4,14 +4,14 @@
 ---
 Приложение Re-Store простейший интернет-магазин, разработанный на React + Redux - состоит из двух частей: списка книг и корзины.
 
-Посмотреть можно по ссылке https://slam235.github.io/re-store/
+Посмотреть можно по ссылке https://shiryaev-dev.github.io/re-store/
 
 Сборка и запуск:
 ---
 - Склонируйте репозиторий:
 
 ```
-git clone https://github.com/slam235/re-store.git
+git clone https://github.com/shiryaev-dev/re-store.git
 ```
 
 - Установите необходимые зависимости:
